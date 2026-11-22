@@ -5,7 +5,7 @@
 
 # YouTube Downloader — Core Java (Phase 1)
 
-A learning-oriented CLI project built with **Java 21**, `yt-dlp`, and FFmpeg. This is an original Java implementation inspired by the *feature set* of [iamakhilvarun/yt-downloader](https://github.com/iamakhilvarun/yt-downloader), not a line-by-line port.
+A learning-oriented CLI project built with **Java 21**, `yt-dlp`, and FFmpeg.
 
 ## Features
 
